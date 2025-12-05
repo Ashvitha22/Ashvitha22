@@ -37,15 +37,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashvitha22&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashvitha22&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashvitha22&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashvitha22&theme=radical&hide_border=false" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvitha22&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvitha22&layout=compact&theme=radical&hide_border=false" height="150"/>
 </p>
 
 
