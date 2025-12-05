@@ -53,8 +53,9 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashvitha22/Ashvitha22/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ashvitha22/Ashvitha22/main/dist/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
 
 ---
 
